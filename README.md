@@ -152,11 +152,11 @@ SELECT * FROM MyUsers;
 
 +-----------+----------+
 
-| firstname | lastname |
+| firstname  | lastname |
 
 +-----------+----------+
 
-| Aditya    | Malviya  |
+| ANAS DAVOOD | TK     |
 
 +-----------+----------+
 
